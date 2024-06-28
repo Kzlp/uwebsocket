@@ -1,6 +1,6 @@
 # QuecPython Websocket客户端
 
-中文| [English](https://github.com/QuecPython/uwebsocket/blob/main/README.md) 
+中文| [English](./README.md) 
 
 ## 概述
 
@@ -27,7 +27,7 @@ WebSocket 客户端是一种实现全双工通信的网络技术，允许客户�
 
 ## 许可证
 
-本项目使用 Apache 许可证。详细信息请参阅 [LICENSE](LICENSE) 文件。
+本项目使用 Apache 许可证。详细信息请参阅 [LICENSE](./LICENSE) 文件。
 
 ## 支持
 

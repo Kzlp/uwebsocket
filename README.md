@@ -27,7 +27,7 @@ We welcome contributions to improve this project! Please follow these steps to c
 
 ## License
 
-This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](./LICENSE) file for details.
 
 ## Support
 
