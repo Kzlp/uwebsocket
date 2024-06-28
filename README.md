@@ -1,6 +1,6 @@
 # QuecPython WebSocket Client
 
-[中文](https://github.com/QuecPython/uwebsocket/blob/main/README_ZH.md) | English
+[中文](./README_ZH.md) | English
 
 ## Overview
 
