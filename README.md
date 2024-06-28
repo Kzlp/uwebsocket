@@ -1,0 +1,35 @@
+# QuecPython WebSocket Client
+
+[中文](https://github.com/QuecPython/uwebsocket/blob/main/README_ZH.md) | English
+
+## Overview
+
+WebSocket clients are a network technology that implements full-duplex communication, allowing for a persistent connection between clients and servers for real-time data exchange.
+
+The persistence and full-duplex capabilities of these connections make them ideal for real-time applications such as online gaming, live trading platforms, and instant messaging tools. Connections are established through an HTTP-upgraded handshake process, supporting the transmission of both text and binary data.
+
+For data security, WebSocket also offers a secure version encrypted with TLS, known as WebSocket Secure (wss://). With these technologies, WebSocket clients can provide a fast, secure, and efficient communication solution, significantly improving user experience and application response times.
+
+## Usage
+
+- [API Reference Manual](https://python.quectel.com/doc/API_reference/en/networklib/uwebsocket.html)
+- [Example Code](./code/demo.py)
+
+## Contribution
+
+We welcome contributions to improve this project! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+If you have any questions or need support, please refer to the [QuecPython documentation](https://python.quectel.com/doc/en) or open an issue in this repository.
+
